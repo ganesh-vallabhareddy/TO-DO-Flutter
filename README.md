@@ -17,7 +17,7 @@ This is a TO DO app developed using Flutter.
 
 Follow the steps below to get started with the project:
 
-1. Clone the repository: `git clone https://github.com/ganesh-vallabhareddy/TO-DO-Flutter.git` /or else, download the zip file
+1. Clone this repository or download the zip file
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
 
