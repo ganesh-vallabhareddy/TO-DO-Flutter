@@ -38,20 +38,6 @@ Make sure to update the dependencies section with the actual versions used in yo
 - `util/my_button.dart`: Implements a reusable custom button widget.
 - `main.dart`: The entry point of the app, initializes Hive and opens the database box.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or want to enhance the app, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Include a suitable license file (e.g., `LICENSE`) in your project directory.
-
-## Acknowledgments
-
-If you used any external resources or libraries, mention them here.
-
-## Contact
-
-Provide your contact information or any relevant links (e.g
