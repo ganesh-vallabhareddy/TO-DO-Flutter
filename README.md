@@ -1,6 +1,6 @@
 # TO DO App
 
-This is a simple TO DO app developed using Flutter.
+This is a TO DO app developed using Flutter.
 
 ## Features
 
