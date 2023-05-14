@@ -11,7 +11,7 @@ This is a TO DO app developed using Flutter.
 
 ## Screenshots
 
-<will post screenshots of the app very soon>
+- will post screenshots of the app very soon
 
 ## Getting Started
 
